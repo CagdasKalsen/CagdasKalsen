@@ -1,16 +1,21 @@
-### Hi there 👋
+Hello! 👋
 
-<!--
-**CagdasKalsen/CagdasKalsen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I have always been passionate about marketing and the ways in which it can drive business success. However, as I've grown in my career, I've found myself increasingly drawn to the world of software engineering. The ability to create and build something from scratch, to see a tangible product come to life, is incredibly exciting to me. I am currently in the process of transitioning my career towards software engineering and am eager to apply my marketing skills in this new field to create innovative and effective solutions. I am excited to take on new challenges and continue learning in this exciting and ever-evolving industry.
 
-Here are some ideas to get you started:
+Some of my hobbies...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎮 Gaming
+
+🏂 Snowboarding
+
+🥾 Hiking
+
+🌏 Traveling
+
+🪛 PC Building
+
+Contact me!
+
+📧 cagdaskalsen@gmail.com
+
+📌 https://www.linkedin.com/in/cagdaskalsen/
