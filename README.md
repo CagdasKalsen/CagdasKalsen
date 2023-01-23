@@ -18,4 +18,4 @@ Contact me!
 
 📧 cagdaskalsen@gmail.com
 
-📌 https://www.linkedin.com/in/cagdaskalsen/
+📌 https://www.linkedin.com/in/cagdaskalsensoftwareengineer/
