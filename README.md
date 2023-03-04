@@ -12,3 +12,6 @@ Contact me!
 📧 cagdaskalsen@gmail.com
 
 📌 https://www.linkedin.com/in/cagdaskalsensoftwareengineer/
+
+📌 https://cagdaskalsen.netlify.app/
+
